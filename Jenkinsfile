@@ -6,7 +6,7 @@ pipeline {
             steps {
                 // Get code from GitHub repository
                 git branch: 'master', 
-                    url: 'https://github.com/NikhilCyberk/basic-react-app.git'
+                    url: 'https://github.com/vaibhavrai17/Basic-React.git'
             }
         }
         
